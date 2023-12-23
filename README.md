@@ -77,6 +77,4 @@ This is the list of examples:
   * [awss3copy-rapi](/awss3copy-rapi) - AWS S3 Copy (Resource API): Example of how to handle S3 buckets and copy an object from a S3 bucket to another S3 bucket. It uses the Resource API (high-level) of Boto 3.
   * [awss3move-rapi](/awss3move-rapi) - AWS S3 Move (Resource API): Example of how to handle S3 buckets and move an object from a S3 bucket to another S3 bucket. It uses the Resource API (high-level) of Boto 3.
   
-## License
 
-This code is released under the MIT License. See LICENSE file.
